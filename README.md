@@ -1,5 +1,5 @@
 ## Welcome to our project : Fraud detector Tool in Medicare 👋
-We put on our big data and machine learning hats to use to solve some complex problems of real world in this project. We have used PySpark, MLLib, Scikit, Numpy.
+We put on our big data and machine learning hats to use to solve some complex problems of real world in this project. We have used PySpark, MLlib, Sklearn, Numpy.
 
 #### Steps to reproduce results :
 1. Download datasets :  
